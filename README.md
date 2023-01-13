@@ -1,16 +1,14 @@
 <h1 align="center">  QR-CODE Frontend Mentor</h1>
 <br>
 
-<h2 align="left">Descrição do projeto: Um projeto </h2>
-
-<p align="left">  <br>
-
-
+<h2 align="left">Descrição do projeto:</h2> <br>
+<p align="left"> Um desafio de codigo da plataforma Frontend Mentor, desafio simples utilizando HTML e CSS </p>
+<br>
 
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Wildbeast-grid-layout/blob/main/bandicam%202023-01-11%2013-49-54-049.gif"/>
+  <img src="https://github.com/Lucas8901/Desafio-Frontend-Mentor-QR-Code/blob/main/gif/bandicam%202023-01-13%2017-40-42-655.gif"/>
   </div>
 
 
